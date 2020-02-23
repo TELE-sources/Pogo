@@ -5,4 +5,4 @@ The Pogo language is made to demonstrate various unique programming paradigms th
 
 Learn how to write in Pogo at the [wiki](https://github.com/nrubin29/Pogo/wiki).
 
-(https://github.com/nrubin29/Pogo/wiki).
+(https://github.com/TELE-sources/Pogo).
